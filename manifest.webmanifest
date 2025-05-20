@@ -1,0 +1,15 @@
+{
+  "name": "マップピンモック",
+  "short_name": "マップPWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "マップにピンを刺して通知もできるオフライン対応モック",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
